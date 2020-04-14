@@ -186,7 +186,7 @@
 											<style>
 												<string><![CDATA[
 <xsl:stylesheet version="2.0"
-	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:m="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsl="https://www.w3.org/1999/XSL/Transform" xmlns:m="https://maven.apache.org/POM/4.0.0"
 	exclude-result-prefixes="m">
 
 	<xsl:template match="node()|@*">
